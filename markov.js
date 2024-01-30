@@ -73,7 +73,3 @@ class MarkovMachine {
 module.exports = {
     MarkovMachine : MarkovMachine
 }
-
-// let mm = new MarkovMachine('I could not, would not, on a boat. I will not, will not, with a goat. I will not eat them in the rain. I will not eat them on a train. Not in the dark! Not in a tree! Not in a car! You let me be! I do not like them in a box. I do not like them with a fox. I will not eat them in a house. I do not like them with a mouse. I do not like them here or there. I do not like them anywhere!');
-// console.log(mm);
-// console.log(mm.makeText(numWords = 50));
